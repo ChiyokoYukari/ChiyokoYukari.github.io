@@ -545,13 +545,15 @@ img{
 
 .card-inner-box .card-home {
 	text-align: center;
-	left: 120px;
+	left: 150px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 6px;
-	max-width: 1050px;
+	max-width: 100%;
 	padding-top: 80px;
+	right: -100px;
+        width: 100%;
 }
 
 .card-item.active {
@@ -1054,7 +1056,7 @@ img{
 }
 
 .projects-block .image::before {
-    background: rgba(145, 71, 255, 0.90);
+    background: #54D1FF;
     bottom: 0px;
     content: "";
     left: 0px;
