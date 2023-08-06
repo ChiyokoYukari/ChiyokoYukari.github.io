@@ -1,1 +1,4 @@
-# ChiyokoYukari.github.io
+## 这里是咖喱的个人主页Github仓库~~
+
+这readme能写什么啊——随便叨叨叨叨写东西？笑死www
+总之，这里也会被我拿来放一些别的存档，比如note.ms留言板什么的ww
