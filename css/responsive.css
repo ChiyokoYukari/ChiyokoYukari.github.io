@@ -67,11 +67,11 @@
 	.main-menu .navbar-header .navbar-toggle{
 		display:inline-block;
 		z-index:20;
-		border:1px solid #9147ff;
+		border:1px solid #54D1FF;
 		float:none;
 		margin:0px 0px 0px 0px;
 		border-radius:0px;
-		background:#9147ff;
+		background:#54D1FF;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle .icon-bar{
@@ -181,7 +181,7 @@
 	.main-menu .navbar-collapse > .navigation > li > a:hover,
 	.main-menu .navbar-collapse > .navigation > li > a:active,
 	.main-menu .navbar-collapse > .navigation > li > a:focus{
-		background:#9147ff;
+		background:#54D1FF;
 	}
 	
 	.main-menu .navbar-collapse > .navigation > li:hover > a,
@@ -190,7 +190,7 @@
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
 		background:#333333;
-		color:#9147ff !important;
+		color:#54D1FF !important;
 	}
 	
 	.main-menu .navbar-collapse > .navigation li.dropdown .dropdown-btn,
