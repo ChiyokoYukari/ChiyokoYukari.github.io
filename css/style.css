@@ -471,7 +471,7 @@ img{
     width: 100%;
     z-index: 9999;
     display: none;
-    box-shadow: 0 0 40px #666666;
+    box-shadow: 0 0 40px color: #666666;
 }
 
 .mobile-menu .nav-outer {
@@ -483,7 +483,7 @@ img{
     left: 0;
     top: 0;
     z-index: 99;
-    padding: 13px 0;
+    padding: 10px 0;
     padding-right: 24px;
 }
 
