@@ -167,12 +167,12 @@ ul,li{
 	-ms-border-radius: 40px;
 	-o-border-radius: 40px;
 	border-radius: 40px;
-	background: #9147ff;
+	background: #6FCEFF;
 }
 
 .btn-style-one:hover{
 	color: #fff;
-	background: #222;
+	background: #FFB6D7;
 }
 
 /*Btn Style two*/
@@ -197,8 +197,8 @@ ul,li{
 
 .btn-style-two:hover{
 	color: #ffffff;
-	background: #9147ff;
-	border-color: #9147ff;
+	background: #FFB6D7;
+	border-color: #FFB6D7;
 }
 
 
@@ -427,7 +427,7 @@ img{
 .header ul li:before {
 	position: absolute;
 	content: '';
-	background-color: #9147ff;
+	background-color: #FFB6D7;
 	height: 50px;
 	width: 50px;
 	right: 10px;
@@ -453,7 +453,7 @@ img{
 }
 
 .header ul li.active a {
-    background: #9147ff;
+    background: #FFB6D7;
     color: #fff;
 }
 
